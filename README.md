@@ -47,5 +47,9 @@ To run the program, you'll need Python 3.x and the following packages:
 
 1. Navigate to the project directory:
    ```bash
-   cd simplex-optimization
+   cd SimplexOptimization
+   ```
+2. Run the python file
+   ```bash
+   python Optimization.py
    ```
