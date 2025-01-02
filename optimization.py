@@ -122,7 +122,7 @@ label2 = tk.Label(root, text='Submitted By: Shephalika Dhakal ',fg='#218B82',bg=
 label2.config(font=('helvetica', 14))
 canvas1.create_window(200, 70, window=label2)
 
-label3 = tk.Label(root, text='Submitted To: Durga Prasad Dhakal',fg='#218B82',bg='#98D4BB')
+label3 = tk.Label(root, text='Submitted To: Durga Prasad Dhakal (Asst. Prof.)',fg='#218B82',bg='#98D4BB')
 label3.config(font=('helvetica', 14))
 canvas1.create_window(550, 70, window=label3)
 
