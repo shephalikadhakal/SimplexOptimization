@@ -51,5 +51,5 @@ To run the program, you'll need Python 3.x and the following packages:
    ```
 2. Run the python file
    ```bash
-   python Optimization.py
+   python optimization.py
    ```
